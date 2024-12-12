@@ -1,5 +1,6 @@
 [
   { "message": "Haidee", "link": "https://www.youtube.com/watch?v=O5bi_vD-U_w" },
   { "message": "acesta nu este un mesaj", "link": "https://example.com/2" },
-  { "message": "acest mesaj", "link": "https://www.youtube.com/watch?v=KeDxMtA2FHI" }
+  { "message": "acest mesaj", "link": "https://www.youtube.com/watch?v=KeDxMtA2FHI" },
+  { "message": "mesaj", "link": "https://www.youtube.com/watch?v=KeDxMtA2FHI" }
 ]
